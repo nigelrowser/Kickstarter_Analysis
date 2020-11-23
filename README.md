@@ -1,5 +1,4 @@
 # Kickstarter_Analysis
-Performing analysis on Kickstarter data to uncover 
 
 Overview of Project
 
@@ -7,3 +6,4 @@ Louise planned a fundrasier to fund her play, "Fever". As a result of the fundra
 
 Analysis and Challenge 
 
+Results
