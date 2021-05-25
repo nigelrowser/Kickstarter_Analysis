@@ -12,9 +12,9 @@ Results
 
 1.Based on the data from the Outcomes based on Launch Date, May is the most successful month when launching a new campaign. In May 111 campaigns were successful compared to 52 failed campaigns and 3 canceled. Also, from the data we know that December is the worst month when trying to launch a new campaign. Almost 47% of campaigns launched failed in December which is easily has the highest percentage of failed campaigns. 
 
-2.Based on the data from the Outcomes based on Goals we can conclude that campaigns with goals less than $1000 have the highest percentage of success. 71% of campaigns with a goal less than $1000 are successful. Based on the graph there is a consistent downtend when refereing to the percentage of campaigns that are a successful as the goal amount gets higher.
+2.Based on the data from the Outcomes based on Goals we can conclude that campaigns with goals less than $1000 have the highest percentage of success. 71% of campaigns with a goal less than $1000 are successful. Based on the graph there is a consistent downtend when refering to the percentage of campaigns that are a successful as the goal amount gets higher.
 
-3.A limitation of the data is based off the market efforts of each campaign. Each campaign likely has a dirrent marketing budget, popularlity, and reach to the public. This would effect a campaign fundraiser because if certain campaign reach a greater audience than they are more likely to attract more donors. Another limitation stems from campaings from all around the world because considered as data. The value of currency fluctuates daily so this hasn't been taken into account. 
+3.A limitation of the data is based off the market efforts of each campaign. Each campaign likely has a different marketing budget, popularlity, and reach to the public. This would effect a campaign fundraiser because if certain campaign reach a greater audience than they are more likely to attract more donors. Another limitation stems from campaigns from all around the world because considered as data. The value of currency fluctuates daily so this hasn't been taken into account. 
 
 4.For the Outcomes based on Goals data the use of a pie chart would have been useful when trying to compare percentages. 
 
